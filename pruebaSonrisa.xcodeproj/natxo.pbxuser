@@ -1,0 +1,227 @@
+// !$*UTF8*$!
+{
+	2A9B059514A32EC7003D2A19 /* pruebaSonrisa */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = pruebaSonrisa;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2A9B05B614A32EE8003D2A19 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2A9B05B714A32EE8003D2A19 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2A9B05BF14A32EF9003D2A19 /* eyefinder.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = eyefinder.h;
+		path = /Users/natxo/Desktop/OF007/addons/MPTSmiles/include/eyefinder.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4954, 1716}}";
+			sepNavSelRange = "{3446, 0}";
+			sepNavVisRange = "{0, 1636}";
+		};
+	};
+	2A9B05C114A32EF9003D2A19 /* eyeobject.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = eyeobject.h;
+		path = /Users/natxo/Desktop/OF007/addons/MPTSmiles/include/eyeobject.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 1209}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 992}";
+		};
+	};
+	2A9B05DF14A32EF9003D2A19 /* smile.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = smile.h;
+		path = /Users/natxo/Desktop/OF007/addons/MPTSmiles/include/smile.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {4954, 3575}}";
+			sepNavSelRange = "{493, 0}";
+			sepNavVisRange = "{0, 1953}";
+		};
+	};
+	2A9B074414A32F8C003D2A19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 414;
+		vrLoc = 0;
+	};
+	2A9B074514A32F8C003D2A19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 50";
+		rLen = 0;
+		rLoc = 1130;
+		rType = 0;
+		vrLen = 982;
+		vrLoc = 0;
+	};
+	2A9B076114A33024003D2A19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 26";
+		rLen = 0;
+		rLoc = 512;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 0;
+	};
+	2A9B076414A330DC003D2A19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A9B05C114A32EF9003D2A19 /* eyeobject.h */;
+		name = "eyeobject.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 0;
+	};
+	2A9B076514A330DC003D2A19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A9B05BF14A32EF9003D2A19 /* eyefinder.h */;
+		name = "eyefinder.h: 70";
+		rLen = 0;
+		rLoc = 2829;
+		rType = 0;
+		vrLen = 2065;
+		vrLoc = 0;
+	};
+	2A9B076614A330DC003D2A19 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2A9B05DF14A32EF9003D2A19 /* smile.h */;
+	};
+	2A9B076714A330DC003D2A19 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A9B05DF14A32EF9003D2A19 /* smile.h */;
+		name = "smile.h: 14";
+		rLen = 0;
+		rLoc = 493;
+		rType = 0;
+		vrLen = 1953;
+		vrLoc = 0;
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2A9B059514A32EC7003D2A19 /* pruebaSonrisa */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* pruebaSonrisa */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* pruebaSonrisa */,
+		);
+		codeSenseManager = 2A9B05B714A32EE8003D2A19 /* Code sense */;
+		executables = (
+			2A9B059514A32EC7003D2A19 /* pruebaSonrisa */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					666,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 346239734;
+			PBXWorkspaceStateSaveDate = 346239734;
+		};
+		perUserProjectItems = {
+			2A9B074414A32F8C003D2A19 = 2A9B074414A32F8C003D2A19 /* PBXTextBookmark */;
+			2A9B074514A32F8C003D2A19 = 2A9B074514A32F8C003D2A19 /* PBXTextBookmark */;
+			2A9B076114A33024003D2A19 = 2A9B076114A33024003D2A19 /* PBXTextBookmark */;
+			2A9B076414A330DC003D2A19 = 2A9B076414A330DC003D2A19 /* PBXTextBookmark */;
+			2A9B076514A330DC003D2A19 = 2A9B076514A330DC003D2A19 /* PBXTextBookmark */;
+			2A9B076614A330DC003D2A19 = 2A9B076614A330DC003D2A19 /* PBXBookmark */;
+			2A9B076714A330DC003D2A19 = 2A9B076714A330DC003D2A19 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2A9B05B614A32EE8003D2A19 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* pruebaSonrisa */ = {
+		activeExec = 0;
+		executables = (
+			2A9B059514A32EC7003D2A19 /* pruebaSonrisa */,
+		);
+	};
+	E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {844, 550}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 414}";
+		};
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {844, 806}}";
+			sepNavSelRange = "{330, 0}";
+			sepNavVisRange = "{0, 961}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {844, 550}}";
+			sepNavSelRange = "{532, 0}";
+			sepNavVisRange = "{0, 588}";
+		};
+	};
+}
